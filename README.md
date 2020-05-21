@@ -15,7 +15,7 @@ flex 2.6.4
 `sudo apt-get insrall flex`
 
 ## Getting Started
-после клонирвоания репризитория создайте бабку build, далее соберите cmake. 
+после клонирвоания репризитория создайте папку build, далее соберите cmake. 
 
 Затем make
 
