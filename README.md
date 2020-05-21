@@ -1,8 +1,10 @@
-# Зависимости
-компилятор clang++
+## Зависимости
+### компилятор clang++
+
 `sudo apt-get install -y clang`
+
 bison 3.4
-## установка
+### установка
 скачать архив: http://ftp.gnu.org/gnu/bison/bison-3.4.tar.gz, далее распаковать.
 
 `cd bison-3.4/`
@@ -16,7 +18,7 @@ bison 3.4
 flex 2.6.4
 `sudo apt-get insrall flex`
 
-# Getting Started
+## Getting Started
 после клонирвоания репризитория создайте папку build, далее соберите cmake. 
 
 Затем make
@@ -26,9 +28,9 @@ flex 2.6.4
 
 укажите путь к файлу(который будет компиллироваться), а так же файл в который будет записыватсья ответ.
 
-# abbyy_compile_course
+## abbyy_compile_course
 курс абби по компиляторам
-## Состав:
+### Состав:
 Серов Ярослав
 
 Арман Степанян
