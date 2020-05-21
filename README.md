@@ -16,6 +16,7 @@ bison 3.4
 `sudo make install`
 
 flex 2.6.4
+
 `sudo apt-get insrall flex`
 
 ## Getting Started
