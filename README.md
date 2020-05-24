@@ -3,8 +3,8 @@
 
 `sudo apt-get install -y clang`
 
-bison 3.4
-### установка
+### bison 3.4
+установка
 скачать архив: http://ftp.gnu.org/gnu/bison/bison-3.4.tar.gz, далее распаковать.
 
 `cd bison-3.4/`
@@ -15,7 +15,7 @@ bison 3.4
 
 `sudo make install`
 
-flex 2.6.4
+### flex 2.6.4
 
 `sudo apt-get install flex`
 
