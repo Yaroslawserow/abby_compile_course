@@ -3,8 +3,9 @@
 
 `sudo apt-get install -y clang`
 
-bison 3.4
-### установка
+### bison 3.4
+установка:
+
 скачать архив: http://ftp.gnu.org/gnu/bison/bison-3.4.tar.gz, далее распаковать.
 
 `cd bison-3.4/`
@@ -15,9 +16,9 @@ bison 3.4
 
 `sudo make install`
 
-flex 2.6.4
+### flex 2.6.4
 
-`sudo apt-get insrall flex`
+`sudo apt-get install flex`
 
 ## Getting Started
 после клонирвоания репризитория создайте папку build, далее соберите cmake. 
@@ -30,7 +31,7 @@ flex 2.6.4
 укажите путь к файлу(который будет компиллироваться), а так же файл в который будет записыватсья ответ.
 
 ## abbyy_compile_course
-курс абби по компиляторам
+курс ABBYY по компиляторам
 ### Состав:
 Серов Ярослав
 
