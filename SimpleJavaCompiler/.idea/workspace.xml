@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Simplejavacompiler" targetName="ast" />
+      <config projectName="Simplejavacompiler" targetName="Simplejavacompiler" />
+      <config projectName="Simplejavacompiler" targetName="graphviz" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5d551ada-8733-4c15-90c4-a319b56421fc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../SampleJavaCompiler/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SampleJavaCompiler/run_ast_graphviz.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SampleJavaCompiler/source/.mc_parser.yy.swp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SampleJavaCompiler/source/ast/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SampleJavaCompiler/source/ast/handlers/class.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SampleJavaCompiler/source/ast/handlers/expressions.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SampleJavaCompiler/source/ast/handlers/goal.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SampleJavaCompiler/source/ast/handlers/main_class.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SampleJavaCompiler/source/ast/handlers/method_body.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SampleJavaCompiler/source/ast/handlers/method_declaration.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SampleJavaCompiler/source/ast/handlers/statements.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SampleJavaCompiler/source/ast/handlers/types.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SampleJavaCompiler/source/ast/handlers/var_declaration.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SampleJavaCompiler/source/ast/handlers/visitable.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SampleJavaCompiler/source/ast/visitors/.visitor_graphviz.cpp.swp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SampleJavaCompiler/source/ast/visitors/.visitor_pretty_printer.cpp.swp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SampleJavaCompiler/source/ast/visitors/ivisitor.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SampleJavaCompiler/source/ast/visitors/visitor_graphviz.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SampleJavaCompiler/source/ast/visitors/visitor_graphviz.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SampleJavaCompiler/source/ast/visitors/visitor_pretty_printer.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SampleJavaCompiler/source/ast/visitors/visitor_pretty_printer.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SampleJavaCompiler/source/ast/yyltype.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SampleJavaCompiler/source/ast/yyltype.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SampleJavaCompiler/source/lexer.l" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SampleJavaCompiler/source/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SampleJavaCompiler/source/module.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SampleJavaCompiler/source/module.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SampleJavaCompiler/source/parser.yy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SampleJavaCompiler/source/scanner.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SampleJavaCompiler/source/scanner.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SampleJavaCompiler/source/scanner.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SampleJavaCompiler/tests/Samples/BinarySearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SampleJavaCompiler/tests/Samples/BinaryTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SampleJavaCompiler/tests/Samples/BubbleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SampleJavaCompiler/tests/Samples/Factorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SampleJavaCompiler/tests/Samples/LinearSearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SampleJavaCompiler/tests/Samples/LinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SampleJavaCompiler/tests/Samples/QuickSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SampleJavaCompiler/tests/Samples/TreeVisitor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SampleJavaCompiler/tests/Samples/calc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SampleJavaCompiler/tests/Samples/simple_test.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1cNwL28Ynh5nkxtQzKiacOx7JQO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="CMake Application.Simplejavacompiler">
+    <configuration name="Simplejavacompiler" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Simplejavacompiler" TARGET_NAME="Simplejavacompiler" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Simplejavacompiler" RUN_TARGET_NAME="Simplejavacompiler">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ast" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Simplejavacompiler" TARGET_NAME="ast" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="graphviz" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Simplejavacompiler" TARGET_NAME="graphviz" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.Simplejavacompiler" />
+      <item itemvalue="CMake Application.ast" />
+      <item itemvalue="CMake Application.graphviz" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d551ada-8733-4c15-90c4-a319b56421fc" name="Default Changelist" comment="" />
+      <created>1590382305020</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590382305020</updated>
+      <workItem from="1590382329507" duration="224000" />
+      <workItem from="1590383122274" duration="1706000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="340" y="202" width="743" height="397" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590384562723">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="340" y="202" width="743" height="397" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1299.741@67.27.1299.741" timestamp="1590384562723" />
+    <state x="372" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1590383128574">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="372" y="225" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1590383128574" />
+  </component>
+</project>
